@@ -10,6 +10,7 @@ The PyCitySchools notebook analyzes district-wide test results in math and readi
 
 ## Example Screenshot
 
+### School Summary
 ![image](https://user-images.githubusercontent.com/82631980/213935637-294c7fac-cd8d-4e91-822b-4426dfa1b155.png)
 
 ![image](https://user-images.githubusercontent.com/82631980/213935667-8b7b4b16-cc21-4223-ad2f-cb7dabec80d0.png)
